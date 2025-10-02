@@ -8,8 +8,10 @@ A simple React Native project for handling multiple languages with i18next and A
    └── index.js  → Main i18n setup (connects languages)
 
 /hooks
-   ├── useLanguageContext.js → Context API to switch language
-   └── appLanguage.js        → Wraps app with Language Provider
+   ├── useLanguageContext.js 
+   → Context API to switch language
+   └── appLanguage.js  
+   → Wraps app with Language Provider
 
 App.js → Entry point of the app
 
