@@ -13,8 +13,7 @@ A simple React Native project for handling multiple languages with i18next and A
    → Context API to switch language
    
    
-   └── appLanguage.js  
-   → Wraps app with Language Provider
+   └── appLanguage.js  → Wraps app with Language Provider
 
 App.js → Entry point of the app
 
